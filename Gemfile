@@ -4,7 +4,7 @@ gem 'rails', github: "rails/rails"
 gem 'sqlite3'
 gem 'puma', '~> 3.0'
 gem 'faker'
-gem 'active_model_serializers', '~> 0.10.0'
+gem 'jsonapi-resources'
 
 group :development, :test do
 
