@@ -4,7 +4,7 @@ gem 'rails', github: "rails/rails"
 gem 'sqlite3'
 gem 'puma', '~> 3.0'
 gem 'faker'
-gem 'jsonapi-resources'
+gem 'jsonapi-resources', github: 'cerebris/jsonapi-resources'
 
 group :development, :test do
 
